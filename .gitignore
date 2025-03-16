@@ -1,0 +1,13 @@
+#Ignore dataset
+pklot_coco_json/
+pklot_yolo/
+
+# Ignore model weights
+*.pt
+
+# Ignore video files
+*.mp4
+
+# Ignore image files
+*.jpg
+*.png
