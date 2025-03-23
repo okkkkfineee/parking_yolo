@@ -1,6 +1,6 @@
 #Ignore dataset
-pklot_coco_json/
 pklot_yolo/
+car_dataset/
 
 # Ignore model weights
 *.pt
